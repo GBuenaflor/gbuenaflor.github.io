@@ -5,13 +5,7 @@
 ----------------------------------------------------------------------------------------------
 ##  Microsoft Azure Container Ecosystem - "nugget" series
 ----------------------------------------------------------------------------------------------
-
-```diff
-- Started April 2020 during lockdown. I will add content every week or two. 
-```
-
  
-
  | No.                                                                  | Service      |  Description                                                                |
  | ---------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------|
  | [01](https://github.com/GBuenaflor/01azure-aks-ingresscontroller-https/) | AKS | NGINX Ingress Controller configured with Lets Encrypt Certificate and Azure DNS Zone  |
