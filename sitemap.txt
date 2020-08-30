@@ -1,4 +1,3 @@
-https://github.com/GBuenaflor/gbuenaflor.github.io/
 https://github.com/GBuenaflor/01azure-aks-ingresscontroller-https/
 https://github.com/GBuenaflor/01azure-aks-ingresscontroller-agic/
 https://github.com/GBuenaflor/01azure-aks-terraform-iac/
